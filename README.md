@@ -1,0 +1,4 @@
+- 👋 Hello world! I'm Sph.
+- 👀 I’m interested in programming, databases, networking..
+- 🌱 I’m currently learning backend.
+- 📫 You can reach me on my email: nnlice013@gmail.com.
